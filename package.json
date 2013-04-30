@@ -1,7 +1,7 @@
 {
   "name": "buffer-slice",
   "version": "0.0.1",
-  "description": "slice a buffer into n fixed sized chunks",
+  "description": "slice a buffer into an array of sub buffers",
   "main": "index.js",
   "scripts": {
     "test": "node test"
