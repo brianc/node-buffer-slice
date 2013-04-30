@@ -1,0 +1,20 @@
+{
+  "name": "buffer-slice",
+  "version": "0.0.1",
+  "description": "slice a buffer into n fixed sized chunks",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brianc/node-buffer-slice.git"
+  },
+  "keywords": [
+    "slice",
+    "a",
+    "buffer"
+  ],
+  "author": "Brian M. Carlson",
+  "license": "MIT"
+}
